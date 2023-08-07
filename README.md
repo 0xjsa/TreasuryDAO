@@ -1,4 +1,5 @@
-# Treasury DAO - On-Chain Treasury Management Toolkit for DAOs
+# Hackathon ETHGlobal Lisbon
+## Treasury DAO - On-Chain Treasury Management Toolkit for DAOs
 
 ![Treasury DAO Logo](https://storage.googleapis.com/ethglobal-api-production/projects%2Fhjfj3%2Fimages%2Ftreasurydao_1.jpg)
 
